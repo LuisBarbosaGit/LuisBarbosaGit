@@ -1,6 +1,5 @@
 # Luis Barbosa
 ## Hello, Devs!!
-![Snake animation](https://github.com/LuisBarbosaGit/LuisBarbosaGit/blob/output/github-contribution-grid-snake.svg)
 
 <h2>🧑🏻‍💼SOBRE MIM:</h2>
 
