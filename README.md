@@ -6,7 +6,7 @@
 
 Atualmente estou cursando Analise e Desenvolvimento de Sistemas no IFSP de capivari, meu foco é desenvolvimento BackEnd com frameworks como o .NET e NodeJS.
 
-<h2>Atualmente aprendendo:</h2>
+<h2>Tecnologias Utilizadas:</h2>
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
 
