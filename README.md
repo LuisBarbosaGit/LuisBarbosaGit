@@ -8,7 +8,7 @@ Atualmente estou cursando Analise e Desenvolvimento de Sistemas no IFSP de capiv
 
 <h2>Tecnologias Utilizadas:</h2>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50"/>
 
 ## Mais utilizadas:
 <div>
@@ -18,4 +18,4 @@ Atualmente estou cursando Analise e Desenvolvimento de Sistemas no IFSP de capiv
           
 
 # Contato:
-<a href = "mailto:luisbarbosa.santos@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:luisbarbosa.santos@outlook.com"><img loading="lazy" src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" width="50" height="50" target="_blank"></a>
