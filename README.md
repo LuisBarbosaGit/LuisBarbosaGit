@@ -19,3 +19,4 @@ Atualmente estou cursando Analise e Desenvolvimento de Sistemas no IFSP de capiv
 
 # Contato:
 <a href = "mailto:luisbarbosa.santos@outlook.com"><img loading="lazy" src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" width="50" height="50" target="_blank"></a>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-gustavo-barbosa-dos-santos-27b0601b2/)
