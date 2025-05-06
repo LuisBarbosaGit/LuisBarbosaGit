@@ -1,5 +1,7 @@
 # Luis Barbosa
 ## Hello, Devs!!
+![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisBarbosaGit&show_icons=true&theme=dracula)
+
 
 
 <h2>🧑🏻‍💼SOBRE MIM:</h2>
