@@ -2,6 +2,24 @@
 ## Hello, Devs!!
 ![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisBarbosaGit&show_icons=true&theme=dracula)
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      width="100%"  <!-- Optional: Adjust width as needed -->
+    />
+  </picture>
+</p>
+
 
 
 <h2>🧑🏻‍💼SOBRE MIM:</h2>
