@@ -24,7 +24,7 @@
 
 <h2>🧑🏻‍💼SOBRE MIM:</h2>
 
-Atualmente estou cursando Analise e Desenvolvimento de Sistemas no IFSP de capivari, meu foco é desenvolvimento BackEnd/FullStack com frameworks como o ReactJS/NextJS e Node.
+Atualmente estou cursando Analise e Desenvolvimento de Sistemas no IFSP de capivari, meu foco é desenvolvimento FrontEnd/FullStack com tecnologias como React/Next ShadCN e Tailwind;
 
 <h2>Tecnologias Utilizadas:</h2>
 
