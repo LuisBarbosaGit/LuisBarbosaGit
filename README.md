@@ -1,6 +1,7 @@
 # Luis Barbosa GitHub
 ## Bem vindo!!
-![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisBarbosaGit&show_icons=true&theme=dracula)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelixDev01&theme=radical)](https://github.com/LuisBarbosaGit)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelixDev01&theme=radical)](https://github.com/LuisBarbosaGit)
 
 <p align="center">
   <picture>
