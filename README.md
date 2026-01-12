@@ -1,9 +1,6 @@
 # Luis Barbosa GitHub
 ## Welcome to my Workspace!!
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelixDev01&theme=radical)](https://github.com/LuisBarbosaGit)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelixDev01&theme=radical)](https://github.com/LuisBarbosaGit)
-
-
 
 <h2>🧑🏻‍💼SOBRE MIM:</h2>
 
@@ -15,10 +12,7 @@ Atualmente estou cursando Analise e Desenvolvimento de Sistemas no IFSP de capiv
           
 
 ## RoadMap de Linguagens:
-<div>
-<a href="https://github.com/LuisBarbosaGit">
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisBarbosaGit&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelixDev01&theme=radical)](https://github.com/LuisBarbosaGit)
           
 
 # Contato:
