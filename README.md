@@ -1,9 +1,8 @@
 # Luis Barbosa GitHub
 ## Welcome to my Workspace!!
-<div>
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelixDev01&theme=radical)](https://github.com/LuisBarbosaGit)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelixDev01&theme=radical)](https://github.com/LuisBarbosaGit)
-</div>
+
 
 
 <h2>🧑🏻‍💼SOBRE MIM:</h2>
