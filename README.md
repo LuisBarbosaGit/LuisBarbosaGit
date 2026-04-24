@@ -4,7 +4,7 @@
 
 <h2>🧑🏻‍💼SOBRE MIM:</h2>
 
-Atualmente estou cursando Analise e Desenvolvimento de Sistemas no IFSP de capivari, meu foco é desenvolvimento FrontEnd/FullStack com tecnologias como React/Next ShadCN e Tailwind;
+Desenvolvedor FullStack, com foco em nodeJS, React e NextJs
 
 <h2>Tecnologias Utilizadas:</h2>
 
