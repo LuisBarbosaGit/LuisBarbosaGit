@@ -4,7 +4,7 @@
 
 <h2>🧑🏻‍💼SOBRE MIM:</h2>
 
-Desenvolvedor FullStack, com foco em nodeJS, React e NextJs
+Desenvolvedor FullStack, com foco em nodeJS, React e NextJs, Mais de 2 anos de experiência em desenvolvimento de aplicações Web e Mobile.
 
 <h2>Tecnologias Utilizadas:</h2>
 
@@ -14,7 +14,3 @@ Desenvolvedor FullStack, com foco em nodeJS, React e NextJs
 ## RoadMap de Linguagens:
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisBarbosaGit&theme=radical)](https://github.com/LuisBarbosaGit)
           
-
-# Contato:
-<a href = "mailto:luisbarbosa.santos@outlook.com"><img loading="lazy" src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" width="50" height="50" target="_blank"></a>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-gustavo-barbosa-dos-santos-27b0601b2/)
